@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\New.exe.config
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\New.exe
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\New.pdb
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\ConsoleApp4.exe
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\ConsoleApp4.pdb
+C:\Users\hp\source\repos\ConsoleApp4\New\bin\Debug\ConsoleApp4.exe.config
+C:\Users\hp\source\repos\ConsoleApp4\New\obj\Debug\New.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ConsoleApp4\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp4\New\obj\Debug\New.csproj.CopyComplete
+C:\Users\hp\source\repos\ConsoleApp4\New\obj\Debug\New.exe
+C:\Users\hp\source\repos\ConsoleApp4\New\obj\Debug\New.pdb
